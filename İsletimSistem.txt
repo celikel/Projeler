@@ -1,0 +1,9 @@
+Oyuncak Makine (http://toy.ecylmz.com) dilinde aşağıdaki programları yazın.
+
+1. Girilen sayıların ortalamasını alan bir program yazın.  (0 veya boş girdi halinde program artık girdi almayacak ve sonucu görüntüleyecektir.)
+
+2. Girilen sayıların en büyüğünü bulan bir program yazın.  (0 veya boş girdi halinde program artık girdi almayacak ve sonucu görüntüleyecektir.)
+
+3. 1-50 arasındaki asal sayıları görüntüleyen bir program yazın.
+
+ Ödevin son teslim tarihi sistemde görülmektedir.  Ödevde istenen kodları https://gist.github.com servisinde oluşturacağınız tek bir Gist içine koyun ve ve ödev teslim metnine sadece bu Gist'in adresini ekleyin.  Aynı Gist içinde birden fazla dosya oluşturabileceğinizi unutmayın.  Örneğin aynı Gist içinde 1'nci sorunun cevabı için "answer1.t", ikincisi için "answer2.t" gibi dosyalar oluşturabilirsiniz.  Dikkat!  Ödev teslimi ekranındaki ileti kutusuna kodları yapıştırmayın, sizden istenen tüm kodları içeren bir Gist adresidir (ör. https://gist.github.com/roktas/410669).
