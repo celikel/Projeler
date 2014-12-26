@@ -1,0 +1,8 @@
+Matris aritmetigini yapan (toplama, carpma, ters alma, us alma),
+verilen bir lineer denklem sisteminin cozumunu bulan, Gaussian
+indirgeme algoritmasini yapan, rank hesabini, verilen matrisin
+determinantini, ozdeger ve ozvektorlerin hesaplanmasinin FPGA
+ortaminda gerceklenmesi ve grafiklerinin cikarilmasi. Istediginiz HDL
+dilini kullanabilirsiniz. Verilog HDL dili tercihimdir. Hazirlanan
+kodun bana gelip gosterilmesi ve orneklerin sonuclarin nasil
+hesaplandiginin gosterilmesi gerekmektedir.
