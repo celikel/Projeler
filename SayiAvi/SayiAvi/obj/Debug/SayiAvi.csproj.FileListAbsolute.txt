@@ -1,0 +1,6 @@
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\bin\Debug\SayiAvi.exe.config
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\bin\Debug\SayiAvi.exe
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\bin\Debug\SayiAvi.pdb
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\obj\Debug\SayiAvi.csprojResolveAssemblyReference.cache
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\obj\Debug\SayiAvi.exe
+c:\users\celikel\documents\visual studio 2012\Projects\SayiAvi\SayiAvi\obj\Debug\SayiAvi.pdb
