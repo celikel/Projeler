@@ -1,0 +1,6 @@
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\bin\Debug\IdealKilo.exe.config
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\bin\Debug\IdealKilo.exe
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\bin\Debug\IdealKilo.pdb
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\obj\Debug\IdealKilo.csprojResolveAssemblyReference.cache
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\obj\Debug\IdealKilo.exe
+c:\users\celikel\documents\visual studio 2012\Projects\IdealKilo\IdealKilo\obj\Debug\IdealKilo.pdb
