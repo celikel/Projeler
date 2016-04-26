@@ -27,7 +27,7 @@ namespace SayiAvi
                 }
                 else if (sayi < sistemSayisi)
                 {
-                    Console.WriteLine("Yazdığınız değer sistem sayısından küçüktür. Lütfen tekrar deneyin.");
+                    Console.WriteLine("Yazdığınız değer sistem sayısından küçüktür. Lütfen tekrar dene.");
                 }
                 else
                 {
