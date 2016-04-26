@@ -1,0 +1,6 @@
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csprojResolveAssemblyReference.cache
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+c:\users\celikel\documents\visual studio 2012\Projects\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb
