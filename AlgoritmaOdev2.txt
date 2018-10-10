@@ -1,6 +1,0 @@
-# Zincirlemeyle çakışma idaresi #
-Derste ayrıntıları verildiği üzere önce ki ödevde verilen öğrenci listesi kullanılacaktır. 
-`key` olarak öğrenci adı, `value` olarak ise sizin uyduracağınız öğrenci numarası kullanılacaktır. 
-Hash işlevi daha önce ki ödevde tasarlanan işlev kullanılabilir. 
-Çakışma durum idaresi için ise zincirleme yaklaşımı kullanılacaktır. 
-Ödevlerinizi public gist yapıp `[[gist NO]]` formunda yüklemelisiniz.
